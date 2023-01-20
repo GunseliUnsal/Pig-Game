@@ -19,7 +19,7 @@ Technologies:
 
 #### Screenshot
 
-<p><img align="center" src="screenshot-pig-game"/></p>
+<p><img align="center" src="screenshot-pig-game.png"/></p>
 
 #### Flowchart
 
