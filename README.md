@@ -1,8 +1,6 @@
 # Pig-Game
 Pig Game Project
 
-# Pig Game
-
 ## Live Demo
 
 **You Can See The Project Live On:** [Here](https://gunseliunsal.github.io/Pig-Game/)
@@ -18,3 +16,11 @@ Technologies:
 - HTML
 - CSS
 - JS
+
+#### Screenshot
+
+<p><img align="center" src="screenshot-pig-game"/></p>
+
+#### Flowchart
+
+<p><img align="center" src="pig-game-flowchart.png"/></p>
