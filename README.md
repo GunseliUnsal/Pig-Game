@@ -1,5 +1,5 @@
 # Pig-Game
-Pig Game Project
+This is a Dice Game I just made after learning some JavaScript from Jonas Schmedtmann's course.
 
 ## Live Demo
 
